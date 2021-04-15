@@ -1,0 +1,66 @@
+    body {
+        text-align: center;
+        background-color: #011F3F;
+    }
+    
+    .navbar-brand {
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: 900;
+    }
+    
+    #level-title {
+        font-family: 'Source Sans Pro', sans-serif;
+        font-size: 2.5rem;
+        text-decoration: overline;
+        color: yellow;
+        font-weight: 800;
+    }
+    
+    .containerd {
+        display: block;
+        width: 50%;
+        margin: 32px auto 3%;
+    }
+    
+    .btn {
+        margin: 25px;
+        display: inline-block;
+        height: 150px;
+        width: 150px;
+        border: 10px solid black;
+        border-radius: 20%;
+    }
+    
+    .game-over {
+        background-color: red;
+        opacity: 0.8;
+    }
+    
+    .red {
+        background-color: red;
+    }
+    
+    .green {
+        background-color: green;
+    }
+    
+    .blue {
+        background-color: blue;
+    }
+    
+    .yellow {
+        background-color: yellow;
+    }
+    
+    .pressed {
+        box-shadow: 0 0 20px white;
+        background-color: grey;
+    }
+    
+    #click_btn {
+        margin-top: 32px;
+    }
+    
+    span {
+        color: red;
+    }
